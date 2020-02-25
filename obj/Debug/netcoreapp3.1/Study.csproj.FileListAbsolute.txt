@@ -1,0 +1,11 @@
+/srv/dotnet/Study/bin/Debug/netcoreapp3.1/Study
+/srv/dotnet/Study/bin/Debug/netcoreapp3.1/Study.deps.json
+/srv/dotnet/Study/bin/Debug/netcoreapp3.1/Study.runtimeconfig.json
+/srv/dotnet/Study/bin/Debug/netcoreapp3.1/Study.runtimeconfig.dev.json
+/srv/dotnet/Study/bin/Debug/netcoreapp3.1/Study.dll
+/srv/dotnet/Study/bin/Debug/netcoreapp3.1/Study.pdb
+/srv/dotnet/Study/obj/Debug/netcoreapp3.1/Study.csprojAssemblyReference.cache
+/srv/dotnet/Study/obj/Debug/netcoreapp3.1/Study.AssemblyInfoInputs.cache
+/srv/dotnet/Study/obj/Debug/netcoreapp3.1/Study.AssemblyInfo.cs
+/srv/dotnet/Study/obj/Debug/netcoreapp3.1/Study.dll
+/srv/dotnet/Study/obj/Debug/netcoreapp3.1/Study.pdb
