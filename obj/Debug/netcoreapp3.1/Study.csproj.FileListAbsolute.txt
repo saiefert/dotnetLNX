@@ -9,3 +9,14 @@
 /srv/dotnet/Study/obj/Debug/netcoreapp3.1/Study.AssemblyInfo.cs
 /srv/dotnet/Study/obj/Debug/netcoreapp3.1/Study.dll
 /srv/dotnet/Study/obj/Debug/netcoreapp3.1/Study.pdb
+/srv/dotnetLNX/obj/Debug/netcoreapp3.1/Study.csprojAssemblyReference.cache
+/srv/dotnetLNX/obj/Debug/netcoreapp3.1/Study.AssemblyInfoInputs.cache
+/srv/dotnetLNX/obj/Debug/netcoreapp3.1/Study.AssemblyInfo.cs
+/srv/dotnetLNX/obj/Debug/netcoreapp3.1/Study.dll
+/srv/dotnetLNX/obj/Debug/netcoreapp3.1/Study.pdb
+/srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study
+/srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study.deps.json
+/srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study.runtimeconfig.json
+/srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study.runtimeconfig.dev.json
+/srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study.dll
+/srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study.pdb

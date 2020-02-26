@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/srv/dotnet/Study/Study.csproj": {}
+    "/srv/dotnetLNX/Study.csproj": {}
   },
   "projects": {
-    "/srv/dotnet/Study/Study.csproj": {
+    "/srv/dotnetLNX/Study.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/srv/dotnet/Study/Study.csproj",
+        "projectUniqueName": "/srv/dotnetLNX/Study.csproj",
         "projectName": "Study",
-        "projectPath": "/srv/dotnet/Study/Study.csproj",
-        "packagesPath": "/home/administrador/.nuget/packages/",
-        "outputPath": "/srv/dotnet/Study/obj/",
+        "projectPath": "/srv/dotnetLNX/Study.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/srv/dotnetLNX/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/administrador/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
