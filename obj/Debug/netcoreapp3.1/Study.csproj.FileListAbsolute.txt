@@ -20,3 +20,14 @@
 /srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study.runtimeconfig.dev.json
 /srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study.dll
 /srv/dotnetLNX/bin/Debug/netcoreapp3.1/Study.pdb
+/srv/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study
+/srv/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.deps.json
+/srv/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.runtimeconfig.json
+/srv/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.runtimeconfig.dev.json
+/srv/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.dll
+/srv/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.pdb
+/srv/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.csprojAssemblyReference.cache
+/srv/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.AssemblyInfoInputs.cache
+/srv/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.AssemblyInfo.cs
+/srv/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.dll
+/srv/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.pdb
