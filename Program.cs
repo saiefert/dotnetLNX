@@ -21,30 +21,47 @@ namespace Study
 
             // Imprimir(aulas);
 
-            Curso csharpColecoes = new Curso("C#", "Josmar");
-            csharpColecoes.Adiciona(new Aula("Trabalhando com Listas", 20));
-            Imprimir(csharpColecoes.AulasReadyOnly);
+            // Curso csharpColecoes = new Curso("C#", "Josmar");
+            // csharpColecoes.Adiciona(new Aula("Trabalhando com Listas", 20));
+            // Imprimir(csharpColecoes.AulasReadyOnly);
 
-            //Adicionar 2 aulas
-            csharpColecoes.Adiciona(new Aula("Criando uma Aula", 20));
-            csharpColecoes.Adiciona(new Aula("Modelando com coleções", 19));
+            // //Adicionar 2 aulas
+            // csharpColecoes.Adiciona(new Aula("Criando uma Aula", 20));
+            // csharpColecoes.Adiciona(new Aula("Modelando com coleções", 19));
 
-            Imprimir(csharpColecoes.AulasReadyOnly);
+            // Imprimir(csharpColecoes.AulasReadyOnly);
 
-            //Ordenar a lista de aulas
-            //csharpColecoes.AulasReadyOnly.Sort();
+            // //Ordenar a lista de aulas
+            // //csharpColecoes.AulasReadyOnly.Sort();
 
-            //copiar a lista para outra lista
-            List<Aula> aulasCopiadas = new List<Aula>(csharpColecoes.AulasReadyOnly);
+            // //copiar a lista para outra lista
+            // List<Aula> aulasCopiadas = new List<Aula>(csharpColecoes.AulasReadyOnly);
 
-            //ordenar a cópia
-            aulasCopiadas.Sort();
+            // //ordenar a cópia
+            // aulasCopiadas.Sort();
 
-            Imprimir(aulasCopiadas);
+            // Imprimir(aulasCopiadas);
 
-            //totalizar o tempo do curso
-            Console.WriteLine(csharpColecoes.TempoTotal);
-            Console.WriteLine(csharpColecoes.ToString());
+            // //totalizar o tempo do curso
+            // Console.WriteLine(csharpColecoes.TempoTotal);
+            // Console.WriteLine(csharpColecoes.ToString());
+
+            //SETS = CONJUNTOS
+            //1. não permite duplicidade
+            //2. os elementos não são mantidos em ordem específica
+
+            //declarando set de alunos
+            ISet<string> alunos = new HashSet<string>();
+
+            alunos.Add("Vanessa Tonini");
+            alunos.Add("Ana Losnak");
+            alunos.Add("Rafael");
+
+            Console.WriteLine(alunos);
+            Console.WriteLine(string.Join(",", alunos));
+
+            alunos.Add("Rafae");
+            Console.WriteLine(string.Join(",", alunos));
         }
 
         private static void Imprimir(IList<Aula> aulas)
