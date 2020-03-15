@@ -31,3 +31,14 @@
 /srv/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.AssemblyInfo.cs
 /srv/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.dll
 /srv/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.pdb
+/home/jsaiefert/Programming/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study
+/home/jsaiefert/Programming/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.deps.json
+/home/jsaiefert/Programming/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.runtimeconfig.json
+/home/jsaiefert/Programming/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.runtimeconfig.dev.json
+/home/jsaiefert/Programming/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.dll
+/home/jsaiefert/Programming/dotnet/dotnetLNX/bin/Debug/netcoreapp3.1/Study.pdb
+/home/jsaiefert/Programming/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.csprojAssemblyReference.cache
+/home/jsaiefert/Programming/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.AssemblyInfoInputs.cache
+/home/jsaiefert/Programming/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.AssemblyInfo.cs
+/home/jsaiefert/Programming/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.dll
+/home/jsaiefert/Programming/dotnet/dotnetLNX/obj/Debug/netcoreapp3.1/Study.pdb
